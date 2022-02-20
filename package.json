@@ -1,0 +1,28 @@
+{
+  "name": "hardhat-project",
+  "devDependencies": {
+    "@1inch/limit-order-protocol": "^1.2.1",
+    "@nomiclabs/buidler": "^1.4.8",
+    "@nomiclabs/hardhat-etherscan": "^3.0.1",
+    "@nomiclabs/hardhat-truffle5": "^2.0.4",
+    "@nomiclabs/hardhat-web3": "^2.0.0",
+    "@openzeppelin/test-helpers": "^0.5.15",
+    "@trufflesuite/bigint-buffer": "^1.1.9",
+    "chai": "^4.3.6",
+    "dotenv": "^16.0.0",
+    "eth-sig-util": "^3.0.1",
+    "ethereumjs-util": "^7.1.4",
+    "ethereumjs-wallet": "^1.0.2",
+    "hardhat": "^2.8.4",
+    "hardhat-deploy": "^0.10.5",
+    "hardhat-gas-reporter": "^1.0.8",
+    "rimraf": "^3.0.2",
+    "solc": "^0.8.11",
+    "solhint": "^3.3.7",
+    "solidity-coverage": "^0.7.20",
+    "solidity-docgen": "^0.5.16"
+  },
+  "dependencies": {
+    "@openzeppelin/contracts": "^4.5.0"
+  }
+}
